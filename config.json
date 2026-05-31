@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productcerify",
+        "uuid": 20626020,
+        "checksum": "vufn7v"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
